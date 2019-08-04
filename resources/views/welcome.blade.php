@@ -9,8 +9,15 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
+        <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
+        <script src="{{ mix('/js/app.js') }}"></script>
+
     </head>
     <body>
+
+        <h1 class="text-red-500">Tinker</h1>
+
+        <p>Just tinkering about.</p>
         
     </body>
 </html>
