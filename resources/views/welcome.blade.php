@@ -15,9 +15,45 @@
     </head>
     <body>
 
-        <h1 class="text-red-500">Tinker</h1>
+        <div class="min-h-screen bg-top bg-cover flex flex-col" style="background-image: url(/images/hero-bg.svg)">
 
-        <p>Just tinkering about.</p>
-        
+            <div class="container text-white">
+
+                <h1 class="text-5xl">Tinker</h1>
+
+                <p>Just tinkering about.</p>
+            
+            </div>            
+
+        </div>
+
+        <nav class="bg-white p-5 mt-auto sticky top-0">
+            The nav
+        </nav>
+
+        <div class="min-h-screen bg-top bg-cover flex flex-col bg-red-500">
+
+            <div class="container text-white">
+
+                <h1 class="text-5xl">Tinker</h1>
+
+                <p>Just tinkering about.</p>
+            
+            </div>
+
+        </div>
+
+        <div class="min-h-screen bg-top bg-cover flex flex-col bg-red-500">
+
+                <div class="container text-white">
+    
+                    <h1 class="text-5xl">Tinker</h1>
+    
+                    <p>Just tinkering about.</p>
+                
+                </div>
+    
+            </div>
+
     </body>
 </html>
